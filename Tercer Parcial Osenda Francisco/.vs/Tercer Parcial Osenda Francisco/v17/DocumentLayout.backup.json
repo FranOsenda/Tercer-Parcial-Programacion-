@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CE95F47-4F04-4815-8950-5955DFEC1967}|Front\\Front.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\tercer parcial osenda francisco\\tercer-parcial-programacion-\\tercer parcial osenda francisco\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CE95F47-4F04-4815-8950-5955DFEC1967}|Front\\Front.csproj|solutionrelative:front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\tercer parcial osenda francisco\\tercer-parcial-programacion-\\tercer parcial osenda francisco\\tercer parcial osenda francisco\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|solutionrelative:tercer parcial osenda francisco\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\tercer parcial osenda francisco\\tercer-parcial-programacion-\\tercer parcial osenda francisco\\tercer parcial osenda francisco\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|solutionrelative:tercer parcial osenda francisco\\repositories\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\tercer parcial osenda francisco\\tercer-parcial-programacion-\\tercer parcial osenda francisco\\tercer parcial osenda francisco\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|solutionrelative:tercer parcial osenda francisco\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\tercer parcial osenda francisco\\tercer-parcial-programacion-\\tercer parcial osenda francisco\\tercer parcial osenda francisco\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|solutionrelative:tercer parcial osenda francisco\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\tercer parcial osenda francisco\\tercer-parcial-programacion-\\tercer parcial osenda francisco\\tercer parcial osenda francisco\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|solutionrelative:tercer parcial osenda francisco\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\tercer parcial osenda francisco\\tercer-parcial-programacion-\\tercer parcial osenda francisco\\tercer parcial osenda francisco\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|solutionrelative:tercer parcial osenda francisco\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|c:\\users\\franc\\desktop\\ices\\programacion 1\\tercer parcial osenda francisco\\tercer-parcial-programacion-\\tercer parcial osenda francisco\\tercer parcial osenda francisco\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26893AB5-3473-4301-8187-279B86A180D9}|Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco.csproj|solutionrelative:tercer parcial osenda francisco\\repositories\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Repositories\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "Tercer Parcial Osenda Francisco\\Repositories\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Repositories\\ProductoRepository.cs",
+              "RelativeToolTip": "Tercer Parcial Osenda Francisco\\Repositories\\ProductoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:13:50.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Repositories\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "Tercer Parcial Osenda Francisco\\Repositories\\VentaRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Repositories\\VentaRepository.cs",
+              "RelativeToolTip": "Tercer Parcial Osenda Francisco\\Repositories\\VentaRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:13:09.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Tercer Parcial Osenda Francisco\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Models\\Venta.cs",
+              "RelativeToolTip": "Tercer Parcial Osenda Francisco\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:08:31.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Tercer Parcial Osenda Francisco\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Models\\Cliente.cs",
+              "RelativeToolTip": "Tercer Parcial Osenda Francisco\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:08:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Tercer Parcial Osenda Francisco\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Models\\Producto.cs",
+              "RelativeToolTip": "Tercer Parcial Osenda Francisco\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:08:21.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Tercer Parcial Osenda Francisco\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Tercer Parcial Osenda Francisco\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:07:52.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Front\\Program.cs",
+              "RelativeDocumentMoniker": "Front\\Program.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Front\\Program.cs",
+              "RelativeToolTip": "Front\\Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwJQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:02:06.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tercer Parcial Osenda Francisco\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\franc\\Desktop\\ICES\\Programacion 1\\Tercer Parcial Osenda Francisco\\Tercer-Parcial-Programacion-\\Tercer Parcial Osenda Francisco\\Tercer Parcial Osenda Francisco\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tercer Parcial Osenda Francisco\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:06:20.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
