@@ -73,8 +73,7 @@ namespace Front
                             Cliente cliente = new Cliente (nombreCliente, apellidoCliente, dniCliente);
                             ClienteRepository.GuardarCliente(cliente);
                             Clientes = ClienteRepository.verClientes();
-                        }
-                        ;
+                        };
 
                         Console.WriteLine("Para volver al menu principal presione una tecla");
                         Console.ReadKey();
@@ -144,10 +143,11 @@ namespace Front
                             }
                             Venta nuevaVenta = new Venta
                             {
-                                ClienteID = cliente.ID,                                
-                                Monto = productosVenta.Sum(p => p.Precio),   
+                                ClienteID = cliente.ID,
+                                Cliente = cliente,
+                                Monto = productosVenta.Sum(p => p.Precio),
                                 Productos = productosVenta
-                            };
+                            }; 
                             VentaRepository.GuardarVenta(nuevaVenta);
                             Ventas = VentaRepository.verVentas();
                             Productos = ProductoRepository.verProductos();
@@ -174,6 +174,11 @@ namespace Front
                                 foreach (var venta in ventasCliente)
                                 {
                                     Console.WriteLine($"ID: {venta.ID}, Monto: {venta.Monto}");
+                                    Console.WriteLine("Productos: ");
+                                    foreach (var producto in venta.Productos)
+                                    {
+                                        Console.WriteLine($"{producto.Nombre} Precio: {producto.Precio}");
+                                    }
                                 }
                             }
                             else

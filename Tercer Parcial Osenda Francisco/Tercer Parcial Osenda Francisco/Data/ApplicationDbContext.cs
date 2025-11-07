@@ -20,5 +20,12 @@ namespace Tercer_Parcial_Osenda_Francisco.Data
             optionsBuilder.UseSqlServer("Server=localhost;Database=TercerParcialOF;Trusted_Connection=True;TrustServerCertificate=True;");
 
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Venta>()
+                .HasMany(v => v.Productos)
+                .WithMany();
+        }
     }
 }
